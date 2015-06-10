@@ -1,0 +1,17 @@
+{
+    "name": "dnadesign/silverstripe-placeholderimage",
+    "description": "",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "image", "placeholder"],
+    "authors": [{
+            "name": "James Ayers",
+            "email": "james.ayers@dna.co.nz"
+    }],
+    "require": {
+            "silverstripe/framework": ">=3.1.3"
+    },
+    "extra": {
+      "installer-name": "placeholderimage"
+    },
+    "minimum-stability": "dev"
+}

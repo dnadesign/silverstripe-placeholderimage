@@ -1,0 +1,6 @@
+---
+Name: placeholderimage
+---
+SiteTree:
+  extensions:
+    - PlaceHolderImageExtension
